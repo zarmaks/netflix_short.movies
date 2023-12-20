@@ -1,3 +1,4 @@
+this mini project is an application of Data Manipulation with Pandas, Data Visualization with Matplotlib and EDA
 
 ![redpopcorn](https://github.com/zarmaks/netflix_short.movies/assets/132918701/5c20816f-5519-4ff7-bc73-f8fb2e62d8e2)
 
